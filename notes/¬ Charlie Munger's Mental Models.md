@@ -110,16 +110,7 @@ Links to all the evergreen notes which pick some pointers from this source (repl
 * Always ask WHY for anything - it helps us to figure why something is happening or not happening
 * We tend to throw out the outliers in statistics, but this is where we can find some of the most interesting observations - these are the ones which will mostly help us understand the reality better
 
-#### Circle of competence
-* You need to understand the areas where you are competent and stick to them. You could always be a jack of all trades, but it is much better to be more specialised in the areas where you are competent
-* Calculating intrinsic value:
-	* How much cash will this business generate?
-	* When will this cash be generated?
-	* Where will the interest rates be?
-* When something lies on the boundary of your circle of competence, understand that you are already doubtful
-	* If you need to ask yourself “is this too expensive for me?”, then it most certainly is
-	* Same holds true for the circle of competence -> if you have competence, you will automatically have a feeling of the boundary of it
-
+####  
 
 ### Fleeting notes
 My notes on the topics covered in this source, based on what I already know / read about + this source and some thoughts that came up during this

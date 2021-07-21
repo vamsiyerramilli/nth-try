@@ -1,8 +1,8 @@
 ## File Naming Notation
 
 ∞ (Option + 5) -> Permanent or Evergreen Notes
+¡ (Option + 1) -> Fleeting Notes
 ¬ (Option + L) -> Literature Notes
-ƒ (Option + F) -> Fleeting Notes
 
 ## Guide to metadata
 * Tag Pages :: 

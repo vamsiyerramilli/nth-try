@@ -133,7 +133,7 @@ This stems from [[#Balance out perspectives of all the different stakeholders wh
 * If a company’s culture is built on stretching for work and on hard work instead of smart work, any number of solutions and meetings to improve work life balance can never come to fruition 
 * Similarly, if a company culture is built around the top down approach of leaders first, it is going to be extremely difficult to implement employee friendly solutions in this environment 
 
-This stems from [[#Culture plays a big role in any design (Pg 63)]], [[ƒ Why Shirish hates Slack]] and my own experience with Oyo 
+This stems from [[#Culture plays a big role in any design (Pg 63)]], [[¡ Why Shirish hates Slack]] and my own experience with Oyo 
 
 ### Why companies are more and more open to launch beta products to the public today
 A lot of products today in the note taking space - Mem, Roam, Obsidian - are all in the beta stage and yet, these are products that are already available to the users 
